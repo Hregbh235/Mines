@@ -1,0 +1,32 @@
+﻿### German:
+WICHTIG: Wenn nach dem Starten des Launchers eine blaue Nachricht erscheint, klicken Sie auf "Weitere Informationen"
+ und dann auf "Trotzdem ausführen". Es ist Smartscreen, das von Zeit zu Zeit blockiert.
+ Unter Windows 10/11 ist es ein Bug von Microsoft.
+
+### Japanese:
+重要: ランチャーを開いた後に青いメッセージが表示された場合は、「詳細情報」をクリックし、「実行」をクリックしてください。これは、時々ブロックするスマートスクリーンです。
+Windows 10/11では、Microsoftのバグです。
+
+### Spanish:
+IMPORTANTE: Si aparece un mensaje azul después de abrir el lanzador, haga clic en "Más información" y luego en "Ejecutar". 
+Es Smartscreen que bloquea de vez en cuando. En Windows 10/11 es un error de Microsoft.
+
+### Portuguese:
+IMPORTANTE: Se uma mensagem azul aparecer após abrir o lançador, clique em "Mais informações" e depois em "Executar". 
+É o Smartscreen que bloqueia de vez em quando. No Windows 10/11, é um bug da Microsoft.
+
+### Korean:
+중요: 런처를 실행한 후 파란색 메시지가 나타나면 "자세히"를 클릭한 다음 "실행"을 클릭하십시오. 이는 가끔 차단되는 스마트스크린 때문입니다.
+ Windows 10/11에서는 Microsoft의 버그입니다.
+
+### French:
+IMPORTANT : Si un message bleu apparaît après l'ouverture du lanceur, cliquez sur "Plus d'informations" puis sur "Exécuter".
+ C'est Smartscreen qui bloque de temps en temps. Sur Windows 10/11, c'est un bug de Microsoft.
+
+### English:
+IMPORTANT: If a blue message appears after opening the launcher, click on "More information" and then click on "Run". 
+It's Smartscreen that blocks from time to time. On Windows 10/11, it's a bug from Microsoft.
+
+### Chinese:
+重要提示：如果在打开启动器后出现蓝色消息，请点击“更多信息”，然后点击“运行”。这是Smartscreen偶尔会阻止的一个问题。
+在Windows 10/11上，这是微软的一个漏洞。
